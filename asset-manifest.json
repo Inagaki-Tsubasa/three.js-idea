@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/three.js-idea/static/css/main.52a6c373.css",
-    "main.js": "/three.js-idea/static/js/main.ac292f43.js",
-    "index.html": "/three.js-idea/index.html",
-    "main.52a6c373.css.map": "/three.js-idea/static/css/main.52a6c373.css.map",
-    "main.ac292f43.js.map": "/three.js-idea/static/js/main.ac292f43.js.map"
+    "main.css": "/static/css/main.52a6c373.css",
+    "main.js": "/static/js/main.ac292f43.js",
+    "index.html": "/index.html",
+    "main.52a6c373.css.map": "/static/css/main.52a6c373.css.map",
+    "main.ac292f43.js.map": "/static/js/main.ac292f43.js.map"
   },
   "entrypoints": [
     "static/css/main.52a6c373.css",
